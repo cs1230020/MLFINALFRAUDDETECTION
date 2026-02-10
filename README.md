@@ -1,4 +1,4 @@
-# 🛡️ Insurance Fraud Detection System (End-to-End ML Pipeline)
+# 🛡️ Insurance Fraud Detection using Machine Learning
 
 ![Python](https://img.shields.io/badge/Python-3.13-blue)
 ![Framework](https://img.shields.io/badge/Framework-Flask-green)
